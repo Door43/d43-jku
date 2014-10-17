@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jku:home|Door43 (jku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jku|d43-jku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jku/archive/master.zip|d43-jku.zip]]
+
+**Recent Changes**
+{{changes>ns = jku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jku|Ethnologue data]]
+
